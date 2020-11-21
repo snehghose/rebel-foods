@@ -12,7 +12,7 @@ class Brands extends Component {
             offset: 0,
             data: [],
             images: [],
-            perPage: 10,
+            perPage: 20,
             currentPage: 0
         }
     }
